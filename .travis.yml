@@ -1,7 +1,7 @@
 language: python
+install:
+  - pip install -r requirements.txt
 branches:
   only:
   - main
   
-install:
-  - pip install -r requirements.txt
