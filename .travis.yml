@@ -1,4 +1,4 @@
 language: python
 branches:
   only:
-  - master
+  - main
